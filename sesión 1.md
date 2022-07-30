@@ -8,4 +8,4 @@ Recuerda que debes subir tu respuesta en el siguiente enlace [Aplicación de los
 
 ## Ejemplo 1
 
-Implementar un firmware que represente la [Implementación de un semáforo](https://github.com/ingDavidRivera/TAI---Microcontroladores/blob/main/salidas_MCU.cpp)
+Desarrollar un firmware que represente la [Implementación de un semáforo](https://github.com/ingDavidRivera/TAI---Microcontroladores/blob/main/salidas_MCU.cpp)
