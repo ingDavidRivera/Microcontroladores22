@@ -8,6 +8,15 @@
 * Memoría
 * GPIO
 
+### Arquitecturas.
+* Procesadores CISC y RISC con Arquitectura HARVARD y VON NEUMANN
+* Organización de las Memorias de Programa y Datos.        
+* Diagrama de conexiones.                    
+* Repertorio de Instrucciones.                        
+* Software de programación    
+
+
+## Ejercicios y ejemplos de aplicación
 
 ### Ejercicio 1
 
