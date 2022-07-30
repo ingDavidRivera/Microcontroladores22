@@ -4,4 +4,4 @@ Recuerda que puedes hacer preguntas en el [Tarea grupo 1]([https://classroom](ht
 
 ## Ejercicio 1
 
-Selecciona un proceso de la vida real en el cual normalmente se realizan las actividades de manera manual. Posteriomrmente, escoge dos de esas actividades y explica ¿Cómo automatizarías dichos procesos haciendo uso de un microcontrolador?.
+Selecciona un proceso de la vida real en el cual normalmente se realizan las actividades de manera manual. Posteriormente, escoge dos de esas actividades y explica ¿Cómo automatizarías dichos procesos haciendo uso de un microcontrolador?.
