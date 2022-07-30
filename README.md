@@ -1,3 +1,8 @@
+## Información del curso
+
+Bienvenid@s al curso de **Microcontroladores** de la tecnología en Automatización Industrial, este curso es ofertado por el departamento de Electrónica y Automatización de la facultad de ingeniería de la Universidad Autónoma de Manizales.
+
+
 ## Justificación
 
 Los microcontroladores están presentes en nuestro trabajo, en nuestro hogar y en nuestra vida en general. Se encuentran controlando el funcionamiento de ratones y teclados en los computadores, en los teléfonos, en los hornos microondas y en los televisores. La casi totalidad de los automatismos, equipos de medición, dispositivos mecatrónicos y electrodomésticos que hoy conocemos, están gobernados por microcontroladores. Las extensas áreas de aplicación de los microcontroladores, que pueden considerarse ilimitadas, exigen tecnólogos altamente preparados en diseño, fabricación y montaje de
