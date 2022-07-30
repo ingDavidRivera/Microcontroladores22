@@ -1,15 +1,7 @@
 # Ejercicios sesión 1
 
-Recuerda que puedes hacer preguntas en el [Tarea grupo 1](https://classroom).
+Recuerda que puedes hacer preguntas en el [Tarea grupo 1]([https://classroom](https://classroom.google.com/u/0/c/NDg4NjU2MzI4MTk1/a/NDg4NjU2NjU4NDYz/details)).
 
 ## Ejercicio 1
 
-Escribe un programa que le pida al usuario ingresar una frase y la imprima en la consola.
-
-Recuerda que para pedirle al usuario que escriba una frase debes utilizar el método `prompt()` y para escribir en la consola debes utilizar el método `console.log()`.
-
-Comparte tu respuesta [en este enlace](https://classroom).
-
-```
-Tienes 20 años
-```
+Selecciona un proceso de la vida real en el cual normalmente se realizan las actividades de manera manual. Posteriomrmente, escoge dos de esas actividades y explica ¿Cómo automatizarías dichos procesos haciendo uso de un microcontrolador?.
