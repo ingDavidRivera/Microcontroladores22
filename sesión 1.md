@@ -11,7 +11,11 @@
 ### Arquitecturas.
 * Procesadores CISC y RISC con Arquitectura HARVARD y VON NEUMANN
 * Organización de las Memorias de Programa y Datos.        
-* Diagrama de conexiones.                    
+* Diagrama de conexiones.    
+
+[AtMega 328P Pinout](https://www.researchgate.net/profile/Mohammed-Therib/publication/312372376/figure/fig10/AS:450882367168521@1484510141868/Atmel-MCU-ATmega328-and-the-Arduino-pin-out.png)
+
+
 * Repertorio de Instrucciones.                        
 * Software de programación    
 
